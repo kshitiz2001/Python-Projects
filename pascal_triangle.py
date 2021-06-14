@@ -6,3 +6,5 @@ for row in range(n):
         print(p,end=' ')
         p=int(p*(row-col)/(col+1))
     print()
+
+#     by kshitiz
