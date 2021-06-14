@@ -51,3 +51,6 @@ if age >= 10:
 
 else:
     print("Sorry:( ,You Are Not Old Enough To Play This Game")
+    
+    
+#     by kshitiz
