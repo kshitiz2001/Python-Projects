@@ -7,3 +7,5 @@ for b in range(n+1):
     print(' '*(a-c)+b)
     
 #     by kshitiz
+
+
