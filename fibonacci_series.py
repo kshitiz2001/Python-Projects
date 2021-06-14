@@ -24,3 +24,5 @@ for i in range(num-2):
     a = b
     b = temp
 print(lst)
+
+# by kshitiz
