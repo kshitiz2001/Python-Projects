@@ -5,3 +5,5 @@ for b in range(n+1):
     b=bin(b)[2:]
     c=len(b)
     print(' '*(a-c)+b)
+    
+#     by kshitiz
