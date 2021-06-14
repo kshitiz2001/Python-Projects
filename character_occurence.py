@@ -8,3 +8,5 @@ def count_characters(s):
             count[i] = 1
     print(count)
 print(count_characters(n))
+
+# by kshitiz
