@@ -35,3 +35,6 @@ while True:
         print(f"CPU:{cpu_score}")
         print(f"Player:{player_score}")
         break
+
+        
+#         by kshitiz
