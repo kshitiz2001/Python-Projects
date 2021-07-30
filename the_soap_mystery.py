@@ -7,3 +7,6 @@ for _ in range(int(input())):
         if i < n:
             count += 1
     print(count)
+    
+    
+    # by kshitiz
