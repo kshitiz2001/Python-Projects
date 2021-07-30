@@ -11,3 +11,6 @@ for i in range(n):
 print(count)
 for key, value in map.items():
     print(value, end = " ")
+    
+    
+    #by kshitiz
