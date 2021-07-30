@@ -9,3 +9,6 @@ if sum1%10 == 0:
     print("YES")
 else:
     print("NO")
+    
+    
+    # by kshitiz
